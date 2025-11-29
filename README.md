@@ -1,4 +1,5 @@
 🌱 Turismo Ecológico em Guapimirim
+
 Este projeto tem como objetivo promover o turismo ecológico na cidade de Guapimirim (RJ), destacando suas belezas naturais, trilhas, cachoeiras e áreas de preservação ambiental. A aplicação foi desenvolvida como uma página web simples, utilizando HTML e CSS, para apresentar informações e incentivar práticas sustentáveis de turismo.
 
 📂 Estrutura do Projeto
