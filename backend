@@ -1,0 +1,13 @@
+backend/
+│── README.md
+│── .gitignore
+│── docker-compose.yml
+│── src/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│   └── utils/
+│── tests/
+│── config/
+│── docs/
