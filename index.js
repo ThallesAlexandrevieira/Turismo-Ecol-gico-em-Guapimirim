@@ -57,8 +57,8 @@ app.post("/send", async (req, res) => {
 });
 
 
-app.listen(3306, "0.0.0.0", () => {
-  console.log("Servidor rodando na porta 3306");
+app.listen(3000, "0.0.0.0", () => {
+  console.log("Servidor rodando na porta 3000");
 });
 
 
