@@ -29,37 +29,47 @@ CSS3 → Estilização e design responsivo
 
 JavaScript → Funcionalidades básicas
 
-🚀 Como Executar
-Clone este repositório:
 
-bash
-git clone https://github.com/ThallesAlexandrevieira/Turismo-Ecol-gico-em-Guapi
-Acesse a pasta do projeto:
 
-bash
-cd Turismo-Ecol-gico-em-Guapimirim
-Abra o arquivo index.html em qualquer navegador.
+📜 Licença
+Este projeto está sob a licença MIT.
+Sinta-se livre para usar, modificar e distribuir.
+Claro, Thalles! Aqui está o README atualizado com JSON e SQL incluídos na seção de tecnologias utilizadas:
 
-📌 Próximos Passos
-Adicionar imagens dos pontos turísticos
+🌱 Turismo Ecológico em Guapimirim
+Este projeto tem como objetivo promover o turismo ecológico na cidade de Guapimirim (RJ), destacando suas belezas naturais, trilhas, cachoeiras e áreas de preservação ambiental.
+A aplicação foi desenvolvida como uma página web simples, utilizando HTML, CSS e JavaScript, para apresentar informações e incentivar práticas sustentáveis de turismo.
 
-Criar versão responsiva para dispositivos móveis
+📂 Estrutura do Projeto
+index.html → Página principal do site
 
-Integrar mapas interativos (Google Maps ou OpenStreetMap)
+style.css → Estilos e layout da aplicação
 
-Expandir conteúdo com informações históricas e culturais da região
+index.js → Scripts e funcionalidades básicas
 
-🤝 Contribuição
-Contribuições são bem-vindas!
-Para colaborar:
+package.json → Configurações do projeto Node.js
 
-Faça um fork do projeto
+Requisitos → Documento com especificações e requisitos
 
-Crie uma nova branch (git checkout -b minha-feature)
+🎯 Objetivos
+Divulgar pontos turísticos ecológicos de Guapimirim
 
-Realize suas alterações
+Incentivar práticas de turismo sustentável
 
-Envie um pull request
+Criar uma interface simples e acessível para visitantes e moradores
+
+Servir como base para futuros aprimoramentos (ex.: integração com mapas, fotos e informações dinâmicas)
+
+🛠️ Tecnologias Utilizadas
+HTML5 → Estrutura da página
+
+CSS3 → Estilização e design responsivo
+
+JavaScript → Funcionalidades básicas
+
+JSON → Estruturação e troca de dados
+
+SQL → Manipulação e consulta de dados em banco relacional
 
 📜 Licença
 Este projeto está sob a licença MIT.
